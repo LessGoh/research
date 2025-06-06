@@ -1,0 +1,24 @@
+# Streamlit for web interface
+streamlit>=1.28.0
+
+# LlamaIndex core and managed indices
+llama-index-core>=0.10.0
+llama-index-indices-managed-llama-cloud>=0.2.0
+
+# OpenAI integration
+llama-index-llms-openai>=0.1.0
+openai>=1.0.0
+
+# Additional LlamaIndex components
+llama-index-embeddings-openai>=0.1.0
+
+# Data handling
+pydantic>=2.0.0
+typing-extensions>=4.0.0
+
+# Logging and utilities
+python-dotenv>=1.0.0
+
+# Optional: For enhanced functionality
+numpy>=1.24.0
+pandas>=2.0.0
