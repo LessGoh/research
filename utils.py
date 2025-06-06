@@ -12,7 +12,6 @@ import time
 from llama_index.indices.managed.llama_cloud import LlamaCloudIndex
 from llama_index.llms.openai import OpenAI
 from llama_index.core.schema import NodeWithScore
-from llama_index.core.response.schema import Response
 
 from config import AppConfig
 
